@@ -1,0 +1,44 @@
+# Streamlit
+streamlit
+
+# Data manipulation
+pandas
+numpy
+
+# Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+
+# Model interpretation
+shap
+
+# Text processing (optional)
+nltk
+spacy
+
+# Data loading and processing
+openpyxl   # for Excel files
+pyarrow    # for Feather/Parquet
+requests   # for web API calls
+
+# File handling
+python-multipart
+
+# For Hugging Face models (optional)
+transformers
+datasets
+
+# For interactive widgets (optional)
+streamlit-aggrid
+
+# Avoid caching issues
+watchdog
+
+# Optional (for better performance or experimentation)
+joblib
